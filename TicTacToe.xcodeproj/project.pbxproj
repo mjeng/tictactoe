@@ -416,6 +416,7 @@
 				C1D8F1BD1B68A47100F8D454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C1D8F1BE1B68A47100F8D454 /* Build configuration list for PBXNativeTarget "TicTacToeTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				C1D8F1C01B68A47100F8D454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
